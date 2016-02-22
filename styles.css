@@ -1,0 +1,13 @@
+.container{
+    border-color: #c0c0c0;
+    border-width: 1px;
+    border-style: solid;
+
+}
+.form-group{
+    margin-top: 20px;
+}
+
+button.btn{
+    margin-bottom: 20px;
+}
